@@ -1,2 +1,2 @@
-# data-analyst
-Project on SQL_PowerBI_Tableau
+Project Name - Olist Store Analysis (E-Commerce Domain)
+The objective of the project was to conduct critical analysis on the given datasets using Business Intelligence tools like MS Excel, Tableau, PowerBI, MySQL and provide recommendations for business growth. In this project 5 KPIs we evaluated covering various business aspects of e-commerce business like customer behaviour, sales trends, product popularity, seller performance, supply chain, weekday-weekend sales analysis.
